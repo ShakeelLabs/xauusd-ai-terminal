@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:27:24.941Z",
+  "generatedAt": "2026-10-05T22:35:03.005Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -75,6 +75,18 @@
       "Source": "Forex Factory / Fair Economy"
     },
     {
+      "CalendarId": "USD-2026-10-06T13:15:00-04:00-FOMC Member Schmid Speaks",
+      "Date": "2026-10-06T13:15:00-04:00",
+      "Country": "USD",
+      "Event": "FOMC Member Schmid Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
       "CalendarId": "USD-2026-10-07T14:00:00-04:00-FOMC Meeting Minutes",
       "Date": "2026-10-07T14:00:00-04:00",
       "Country": "USD",
@@ -84,6 +96,18 @@
       "Forecast": "",
       "Previous": "",
       "Importance": 3,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-10-08T04:30:00-04:00-FOMC Member Waller Speaks",
+      "Date": "2026-10-08T04:30:00-04:00",
+      "Country": "USD",
+      "Event": "FOMC Member Waller Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
     },
     {
