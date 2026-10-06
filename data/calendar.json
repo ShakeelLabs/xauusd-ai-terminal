@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:12:45.567Z",
+  "generatedAt": "2026-10-06T15:04:27.747Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -27,20 +27,8 @@
       "Source": "Forex Factory / Fair Economy"
     },
     {
-      "CalendarId": "USD-2026-10-06T08:15:00-04:00-ADP Weekly Employment Change",
-      "Date": "2026-10-06T08:15:00-04:00",
-      "Country": "USD",
-      "Event": "ADP Weekly Employment Change",
-      "Category": "Economic Calendar",
-      "Actual": "",
-      "Forecast": "",
-      "Previous": "",
-      "Importance": 1,
-      "Source": "Forex Factory / Fair Economy"
-    },
-    {
-      "CalendarId": "USD-2026-10-06T08:16:00-04:00-ADP Weekly Employment Change",
-      "Date": "2026-10-06T08:16:00-04:00",
+      "CalendarId": "USD-2026-10-06T08:14:00-04:00-ADP Weekly Employment Change",
+      "Date": "2026-10-06T08:14:00-04:00",
       "Country": "USD",
       "Event": "ADP Weekly Employment Change",
       "Category": "Economic Calendar",
@@ -51,8 +39,20 @@
       "Source": "Forex Factory / Fair Economy"
     },
     {
-      "CalendarId": "USD-2026-10-06T10:10:00-04:00-RCM/TIPP Economic Optimism",
-      "Date": "2026-10-06T10:10:00-04:00",
+      "CalendarId": "USD-2026-10-06T08:15:00-04:00-ADP Weekly Employment Change",
+      "Date": "2026-10-06T08:15:00-04:00",
+      "Country": "USD",
+      "Event": "ADP Weekly Employment Change",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "22.5K",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-10-06T10:01:00-04:00-RCM/TIPP Economic Optimism",
+      "Date": "2026-10-06T10:01:00-04:00",
       "Country": "USD",
       "Event": "RCM/TIPP Economic Optimism",
       "Category": "Economic Calendar",
