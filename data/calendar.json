@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T15:13:36.634Z",
+  "generatedAt": "2026-10-12T22:54:35.642Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -153,7 +153,7 @@
       "Event": "Core Retail Sales m/m",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "0.5%",
+      "Forecast": "0.6%",
       "Previous": "1.4%",
       "Importance": 3,
       "Source": "Forex Factory / Fair Economy"
@@ -177,7 +177,7 @@
       "Event": "Philly Fed Manufacturing Index",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "26.5",
+      "Forecast": "28.2",
       "Previous": "37.8",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
@@ -189,7 +189,7 @@
       "Event": "Unemployment Claims",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "195K",
+      "Forecast": "199K",
       "Previous": "197K",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
@@ -225,7 +225,7 @@
       "Event": "Federal Budget Balance",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "75.3B",
+      "Forecast": "-34.7B",
       "Previous": "-166.8B",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
