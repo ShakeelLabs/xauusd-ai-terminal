@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T21:11:51.937Z",
+  "generatedAt": "2026-10-14T01:10:30.699Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -127,6 +127,18 @@
       "Date": "2026-10-14T13:30:00-04:00",
       "Country": "USD",
       "Event": "FOMC Member Barkin Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-10-14T15:00:00-04:00-FOMC Member Goolsbee Speaks",
+      "Date": "2026-10-14T15:00:00-04:00",
+      "Country": "USD",
+      "Event": "FOMC Member Goolsbee Speaks",
       "Category": "Economic Calendar",
       "Actual": "",
       "Forecast": "",
