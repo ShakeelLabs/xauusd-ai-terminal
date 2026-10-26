@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T12:50:15.883Z",
+  "generatedAt": "2026-10-26T19:52:49.904Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -33,7 +33,7 @@
       "Event": "Durable Goods Orders m/m",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "1.8%",
+      "Forecast": "2.0%",
       "Previous": "0.0%",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
@@ -45,7 +45,7 @@
       "Event": "CB Consumer Confidence",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "80.5",
+      "Forecast": "81.2",
       "Previous": "81.9",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
