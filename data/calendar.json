@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T19:52:49.904Z",
+  "generatedAt": "2026-10-26T23:48:34.420Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -117,7 +117,7 @@
       "Event": "Advance GDP Price Index q/q",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "3.5%",
+      "Forecast": "3.3%",
       "Previous": "6.2%",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
@@ -165,7 +165,7 @@
       "Event": "Chicago PMI",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "54.8",
+      "Forecast": "55.8",
       "Previous": "58.8",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
