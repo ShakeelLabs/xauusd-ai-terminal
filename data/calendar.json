@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:43:58.140Z",
+  "generatedAt": "2026-10-30T19:16:16.269Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -187,6 +187,18 @@
       "Date": "2026-10-30T12:30:00-04:00",
       "Country": "USD",
       "Event": "FOMC Member Musalem Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-10-30T13:30:00-04:00-FOMC Member Logan Speaks",
+      "Date": "2026-10-30T13:30:00-04:00",
+      "Country": "USD",
+      "Event": "FOMC Member Logan Speaks",
       "Category": "Economic Calendar",
       "Actual": "",
       "Forecast": "",
