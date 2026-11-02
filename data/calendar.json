@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T23:31:56.031Z",
+  "generatedAt": "2026-11-02T05:53:59.975Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -21,7 +21,7 @@
       "Event": "ISM Manufacturing PMI",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "54.7",
+      "Forecast": "54.5",
       "Previous": "54.5",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
