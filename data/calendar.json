@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T15:39:07.433Z",
+  "generatedAt": "2026-11-02T23:27:19.045Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -45,7 +45,7 @@
       "Event": "JOLTS Job Openings",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "7.11M",
+      "Forecast": "7.15M",
       "Previous": "7.08M",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
@@ -69,7 +69,7 @@
       "Event": "ADP Non-Farm Employment Change",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "68K",
+      "Forecast": "67K",
       "Previous": "90K",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
@@ -93,7 +93,7 @@
       "Event": "ISM Services PMI",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "54.9",
+      "Forecast": "54.8",
       "Previous": "54.9",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
@@ -153,7 +153,7 @@
       "Event": "Non-Farm Employment Change",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "63K",
+      "Forecast": "65K",
       "Previous": "29K",
       "Importance": 3,
       "Source": "Forex Factory / Fair Economy"
