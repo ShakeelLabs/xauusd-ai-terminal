@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T06:39:02.083Z",
+  "generatedAt": "2026-11-03T16:08:26.092Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -39,6 +39,18 @@
       "Source": "Forex Factory / Fair Economy"
     },
     {
+      "CalendarId": "USD-2026-11-03T04:00:00-05:00-RCM/TIPP Economic Optimism",
+      "Date": "2026-11-03T04:00:00-05:00",
+      "Country": "USD",
+      "Event": "RCM/TIPP Economic Optimism",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "46.2",
+      "Previous": "46.8",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
       "CalendarId": "USD-2026-11-03T10:00:00-05:00-JOLTS Job Openings",
       "Date": "2026-11-03T10:00:00-05:00",
       "Country": "USD",
@@ -48,18 +60,6 @@
       "Forecast": "7.15M",
       "Previous": "7.08M",
       "Importance": 2,
-      "Source": "Forex Factory / Fair Economy"
-    },
-    {
-      "CalendarId": "USD-2026-11-03T10:10:00-05:00-RCM/TIPP Economic Optimism",
-      "Date": "2026-11-03T10:10:00-05:00",
-      "Country": "USD",
-      "Event": "RCM/TIPP Economic Optimism",
-      "Category": "Economic Calendar",
-      "Actual": "",
-      "Forecast": "46.2",
-      "Previous": "46.8",
-      "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
     },
     {
