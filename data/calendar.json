@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:00:00.625Z",
+  "generatedAt": "2026-11-06T19:17:44.899Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -199,6 +199,18 @@
       "Date": "2026-11-06T12:15:00-05:00",
       "Country": "USD",
       "Event": "FOMC Member Bowman Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-11-06T13:00:00-05:00-FOMC Member Daly Speaks",
+      "Date": "2026-11-06T13:00:00-05:00",
+      "Country": "USD",
+      "Event": "FOMC Member Daly Speaks",
       "Category": "Economic Calendar",
       "Actual": "",
       "Forecast": "",
