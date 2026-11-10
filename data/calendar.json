@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T12:31:31.082Z",
+  "generatedAt": "2026-11-10T20:46:38.811Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -51,6 +51,18 @@
       "Source": "Forex Factory / Fair Economy"
     },
     {
+      "CalendarId": "USD-2026-11-10T08:14:00-05:00-ADP Weekly Employment Change",
+      "Date": "2026-11-10T08:14:00-05:00",
+      "Country": "USD",
+      "Event": "ADP Weekly Employment Change",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "16.8K",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
       "CalendarId": "USD-2026-11-10T08:15:00-05:00-ADP Weekly Employment Change",
       "Date": "2026-11-10T08:15:00-05:00",
       "Country": "USD",
@@ -58,19 +70,7 @@
       "Category": "Economic Calendar",
       "Actual": "",
       "Forecast": "",
-      "Previous": "",
-      "Importance": 1,
-      "Source": "Forex Factory / Fair Economy"
-    },
-    {
-      "CalendarId": "USD-2026-11-10T08:16:00-05:00-ADP Weekly Employment Change",
-      "Date": "2026-11-10T08:16:00-05:00",
-      "Country": "USD",
-      "Event": "ADP Weekly Employment Change",
-      "Category": "Economic Calendar",
-      "Actual": "",
-      "Forecast": "",
-      "Previous": "16.8K",
+      "Previous": "19.5K",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
     },
