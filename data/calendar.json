@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T01:53:33.125Z",
+  "generatedAt": "2026-11-11T09:16:28.390Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -237,7 +237,7 @@
       "Event": "Federal Budget Balance",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "-286.3B",
+      "Forecast": "-298.6B",
       "Previous": "-26.9B",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
@@ -259,6 +259,18 @@
       "Date": "2026-11-13T09:10:00-05:00",
       "Country": "USD",
       "Event": "FOMC Member Collins Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-11-13T09:40:00-05:00-FOMC Member Logan Speaks",
+      "Date": "2026-11-13T09:40:00-05:00",
+      "Country": "USD",
+      "Event": "FOMC Member Logan Speaks",
       "Category": "Economic Calendar",
       "Actual": "",
       "Forecast": "",
