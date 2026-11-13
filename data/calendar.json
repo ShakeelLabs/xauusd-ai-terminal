@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T17:40:09.571Z",
+  "generatedAt": "2026-11-13T23:28:38.770Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -295,6 +295,18 @@
       "Date": "2026-11-13T12:00:00-05:00",
       "Country": "USD",
       "Event": "FOMC Member Daly Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-11-13T16:00:00-05:00-FOMC Financial Stability Report",
+      "Date": "2026-11-13T16:00:00-05:00",
+      "Country": "USD",
+      "Event": "FOMC Financial Stability Report",
       "Category": "Economic Calendar",
       "Actual": "",
       "Forecast": "",
