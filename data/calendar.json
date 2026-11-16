@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:44:56.039Z",
+  "generatedAt": "2026-11-16T06:16:21.090Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -48,6 +48,18 @@
       "Forecast": "",
       "Previous": "",
       "Importance": 3,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-11-16T14:15:00-05:00-FOMC Member Hammack Speaks",
+      "Date": "2026-11-16T14:15:00-05:00",
+      "Country": "USD",
+      "Event": "FOMC Member Hammack Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
     },
     {
@@ -275,7 +287,7 @@
       "Actual": "",
       "Forecast": "",
       "Previous": "",
-      "Importance": 2,
+      "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
     },
     {
