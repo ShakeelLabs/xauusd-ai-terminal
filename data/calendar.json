@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:16:21.090Z",
+  "generatedAt": "2026-11-16T18:24:10.375Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -27,8 +27,8 @@
       "Source": "Forex Factory / Fair Economy"
     },
     {
-      "CalendarId": "USD-2026-11-16T09:48:00-05:00-Cleveland Fed Inflation Expectations",
-      "Date": "2026-11-16T09:48:00-05:00",
+      "CalendarId": "USD-2026-11-16T09:45:00-05:00-Cleveland Fed Inflation Expectations",
+      "Date": "2026-11-16T09:45:00-05:00",
       "Country": "USD",
       "Event": "Cleveland Fed Inflation Expectations",
       "Category": "Economic Calendar",
