@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:12:25.426Z",
+  "generatedAt": "2026-11-17T22:14:54.394Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -237,7 +237,7 @@
       "Event": "Philly Fed Manufacturing Index",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "19.2",
+      "Forecast": "20.6",
       "Previous": "20.9",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
@@ -249,7 +249,7 @@
       "Event": "Unemployment Claims",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "199K",
+      "Forecast": "198K",
       "Previous": "200K",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
