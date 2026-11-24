@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:28:50.029Z",
+  "generatedAt": "2026-11-24T02:52:15.921Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -57,7 +57,7 @@
       "Event": "CB Consumer Confidence",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "92.1",
+      "Forecast": "92.4",
       "Previous": "91.7",
       "Importance": 2,
       "Source": "Forex Factory / Fair Economy"
@@ -99,18 +99,6 @@
       "Source": "Forex Factory / Fair Economy"
     },
     {
-      "CalendarId": "USD-2026-11-25T08:30:00-05:00-Unemployment Claims",
-      "Date": "2026-11-25T08:30:00-05:00",
-      "Country": "USD",
-      "Event": "Unemployment Claims",
-      "Category": "Economic Calendar",
-      "Actual": "",
-      "Forecast": "201K",
-      "Previous": "203K",
-      "Importance": 2,
-      "Source": "Forex Factory / Fair Economy"
-    },
-    {
       "CalendarId": "USD-2026-11-25T08:30:00-05:00-Core Durable Goods Orders m/m",
       "Date": "2026-11-25T08:30:00-05:00",
       "Country": "USD",
@@ -129,7 +117,7 @@
       "Event": "Durable Goods Orders m/m",
       "Category": "Economic Calendar",
       "Actual": "",
-      "Forecast": "0.5%",
+      "Forecast": "0.7%",
       "Previous": "1.8%",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
@@ -143,6 +131,18 @@
       "Actual": "",
       "Forecast": "0.4%",
       "Previous": "0.2%",
+      "Importance": 1,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-11-25T08:30:00-05:00-Unemployment Claims",
+      "Date": "2026-11-25T08:30:00-05:00",
+      "Country": "USD",
+      "Event": "Unemployment Claims",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "201K",
+      "Previous": "203K",
       "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
     }
