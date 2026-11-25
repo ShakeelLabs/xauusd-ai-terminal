@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T14:46:00.130Z",
+  "generatedAt": "2026-11-25T00:35:09.060Z",
   "source": "Forex Factory / Fair Economy",
   "events": [
     {
@@ -60,6 +60,18 @@
       "Forecast": "92.4",
       "Previous": "91.7",
       "Importance": 2,
+      "Source": "Forex Factory / Fair Economy"
+    },
+    {
+      "CalendarId": "USD-2026-11-25T07:25:00-05:00-FOMC Member Bowman Speaks",
+      "Date": "2026-11-25T07:25:00-05:00",
+      "Country": "USD",
+      "Event": "FOMC Member Bowman Speaks",
+      "Category": "Economic Calendar",
+      "Actual": "",
+      "Forecast": "",
+      "Previous": "",
+      "Importance": 1,
       "Source": "Forex Factory / Fair Economy"
     },
     {
